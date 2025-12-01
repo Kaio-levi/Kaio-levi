@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Kaio Levi! 👋
 
-<!--
-**Kaio-levi/Kaio-levi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de tecnologia apaixonado por criar soluções. Atualmente estou focado em **Programação back-end** e pretendo ser programdor full-stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🌱 Aprendendo profundamente sobre **Java Spring boot**
+
+- 📫 Como me encontrar:  Seu texto aqui: <a href="https://www.linkedin.com/in/kaiopollhein/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
+
+---
+
+### 🛠️ Tech Stack
+
+**Linguagens:**
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,angular&theme=light" />
+  </a>
+</div>
+
+**Ferramentas:**
+<div align="ce">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,git,docker&theme=dark" />
+  </a>
+</div>
+
+---
+
+### ⚡ Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kaio-levi&show_icons=true&theme=dracula)

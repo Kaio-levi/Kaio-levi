@@ -7,7 +7,7 @@ Sou um estudante de tecnologia apaixonado por criar soluções. Atualmente estou
 ### 🚀 Sobre mim
 - 🌱 Aprendendo profundamente sobre **Java Spring boot**
 
-- 📫 Como me encontrar:  Seu texto aqui: <a href="https://www.linkedin.com/in/kaiopollhein/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/kaiopollhein/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
 ---
 
